@@ -79,7 +79,7 @@ Os documentos e entregáveis do projeto estão disponíveis nos seguintes links:
 - [x] Tags `[Assistido por IA]` aplicadas nos trechos gerados ou refinados por IA.
 - [x] Reflexão crítica completa ao final do documento.
 
-# 7. Auditoria e Checklist Final
+## 7. Auditoria e Checklist Final
 
 Para saber mais sobre a auditoria e o checklist final, clique em [Auditoria_e_Cheklist_Final.md](Auditoria_e_Cheklist_Final.md).
 
