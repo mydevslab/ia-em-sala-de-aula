@@ -9,8 +9,9 @@
 - [Internacionalização (i18n) e Adaptação](#4-internacionalização-i18n-e-adaptação)
 - [Links e Recursos](#5-links-e-recursos-do-repositório)
 - [Checklist de Envio](#6-checklist-de-envio)
-- [Créditos](#7-créditos)
-- [Informações sobre o Desafio](#8-informações-sobre-o-desafio)
+- [Auditoria e Checklist Final](#7-auditoria-e-checklist-final)
+- [Créditos](#8-créditos)
+- [Informações sobre o Desafio](#9-informações-sobre-o-desafio)
 
 ## Sobre
 
@@ -40,7 +41,7 @@ Este repositório contém a documentação completa, materiais didáticos e aná
 Google Docs | Documentação e Edição | Redação final, estruturação em Markdown/Rich Text, revisão ortográfica e colaboração em tempo real. |
 Canva | Apoio Visual e Apresentação | Diagramação dos slides da aula ([`Apresentacao_Aula_IA.pptx`](Apresentacao_Aula_IA.pptx)), criação de infográficos e diagramas de acordes em alta resolução. |
 
-## 3. Personalização e Diferenciação Pedagógica (Resumo)
+## 3. Personalização e Diferenciação Pedagógica
 
 *[Assistido por IA]*
 
