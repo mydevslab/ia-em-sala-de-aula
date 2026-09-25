@@ -1,93 +1,145 @@
-# Projeto: Plano de Aula com Inteligência Artificial
+# Projeto Plano de Aula IA - Violão Congregacional Tradicional 
 
-## Índice
+[![Licença CC BY-NC 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt)
+[![Status do Desafio](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)]()
+[![IA Assistida](https://img.shields.io/badge/IA-ChatGPT%20%7C%20Gemini-orange.svg)]()
 
-- [Sobre](#sobre)
-- [Resumo do Plano de Aula](#1-resumo-do-plano-de-aula)
-- [Ferramentas de IA Utilizadas e Aplicação](#2-ferramentas-de-ia-utilizadas-e-aplicação)
-- [Personalização e Diferenciação Pedagógica](#3-personalização-e-diferenciação-pedagógica)
-- [Internacionalização (i18n) e Adaptação](#4-internacionalização-i18n-e-adaptação)
-- [Links e Recursos](#5-links-e-recursos-do-repositório)
-- [Checklist de Envio](#6-checklist-de-envio)
-- [Créditos](#7-créditos)
-- [Informações sobre o Desafio](#8-informações-sobre-o-desafio)
+---
 
-## Sobre
+## 📌 Sobre o Projeto
 
-Este repositório contém a documentação completa, materiais didáticos e análises pedagógicas para a implementação de um plano de aula otimizado por ferramentas de Inteligência Artificial Generativa. O desafio consiste em integrar tecnologias emergentes no planejamento docente, demonstrando como a IA pode acelerar a criação de conteúdos, apoiar a diferenciação pedagógica e enriquecer a experiência de aprendizagem.
+Este repositório contém a documentação completa de um plano de aula e materiais complementares desenvolvidos para o ensino de **Violão para Acompanhamento de Hinos Congregacionais (Nível Iniciante)**. 
 
-## 1. Resumo do Plano de Aula
+O projeto foi criado no âmbito do **Desafio em Inteligência Artificial Aplicada à Educação**, demonstrando como ferramentas de IA Generativa podem ser utilizadas de forma ética, pedagógica e transparente para estruturar planos de aula, gerar materiais de apoio, personalizar a aprendizagem para diferentes perfis de estudantes e garantir internacionalização de conteúdos.
 
-*[Assistido por IA]*
+---
 
-- **Contexto:** Aula 1 do curso Violão para Igrejas Evangélicas (Nível Iniciante), focada nos fundamentos do acompanhamento congregacional tradicional (Harpa Cristã, Cantor Cristão e Cânticos Tradicionais, excluindo o estilo worship contemporâneo).
-- **Duração:** 60 minutos.
-- **Objetivos Principais:**
-    1. Compreender a leitura básica de cifras e diagramas de acordes.
-    2. Executar formações harmônicas fundamentais (`G`, `C`, `D`, `Em`).
-    4. Desenvolver constância de pulsação rítmica simples para sustentação do canto comunitário.
-- **Metodologia:** Aprendizagem ativa e colaborativa baseada na desconstrução de tarefas (microetapas), isolamento de mãos (técnica motora vs. ritmo) e prática de acompanhamento em duplas ("O Pulso Unificado").
-- **Avaliação:** Formativa e contínua, utilizando rubricas ajustadas por nível de proficiência e observação direta da estabilidade rítmica e da fluidez nas trocas de acordes.
+## 🎯 Público-Alvo e Contexto
 
-##  2. Ferramentas de IA Utilizadas e Aplicação
+* **Público-Alvo:** Alunos iniciantes no aprendizado de violão em contextos eclesiásticos comunitários.
+* **Abordagem:** Foco estrito no acompanhamento de hinos e corinhos tradicionais (Harpa Cristã, Cantor Cristão e similares), com prioridade no suporte ao canto congregacional, ritmo constante e simplicidade harmoniosa, **excluindo a estética do worship contemporâneo**.
+* **Duração da Aula:** 60 minutos.
 
-*[Assistido por IA]*
+---
 
-| Ferramenta | Etapa de Aplicação | Função / Benefício Gerado |
-|------------|--------------------|---------------------------|
- ChatGPT | Ideação e Estruturação Inicial | Geração do esqueleto do plano de aula, formulação das atividades práticas em dupla e elaboração de exercícios de fixação.|
- Gemini | Diferenciação e Refinamento | Elaboração das estratégias adaptativas para perfis de aprendizagem, redação da matriz comparativa e análise crítica de privacidade e ética. |
-Google Docs | Documentação e Edição | Redação final, estruturação em Markdown/Rich Text, revisão ortográfica e colaboração em tempo real. |
-Canva | Apoio Visual e Apresentação | Diagramação dos slides da aula ([`Apresentacao_Aula_IA.pptx`](Apresentacao_Aula_IA.pptx)), criação de infográficos e diagramas de acordes em alta resolução. |
+## 📚 Estrutura do Plano de Aula (60 min)
 
-## 3. Personalização e Diferenciação Pedagógica (Resumo)
+### 1. Objetivos de Aprendizagem e Competências
+* Identificar partes básicas do instrumento e postura correta.
+* Executar quatro acordes fundamentais (**Sol, Dó, Ré e Mi menor**).
+* Manter pulsação constante em padrão rítmico básico (`↓ ↓ ↓ ↓`).
+* Realizar transições entre acordes sem interromper o fluxo musical.
+* Acompanhar trecho curto de hino congregacional com segurança.
 
-*[Assistido por IA]*
+### 2. Cronograma e Metodologia Passo a Passo
 
-Para garantir a inclusão e o máximo aproveitamento de todos os estudantes, a aula conta com estratégias diferenciadas para dois perfis distintos:
+| Tempo | Etapa | Descrição |
+| :--- | :--- | :--- |
+| **0–5 min** | Acolhimento e Alinhamento | Breve momentos de oração e explicação da função congregacional do instrumento. |
+| **5–10 min** | Postura e Regulações | Posição corporal, pega do instrumento e ajuste de mãos. |
+| **10–18 min** | Cordas e Casas | Localização visual e tátil das cordas e casas. |
+| **18–28 min** | Formação de Acordes | Prática orientada de G, C, D e Em. |
+| **28–35 min** | Troca de Acordes | Transições dirigidas: `G → C → D → G` e `Em → C → G → D`. |
+| **35–42 min** | Treino de Pulso | Aplicação do padrão rítmico `↓ ↓ ↓ ↓` com metrônomo. |
+| **42–48 min** | Integração | Ritmo combinado com mudanças de acordes. |
+| **48–55 min** | Acompanhamento Prático | Execução de trecho cifrado de hino tradicional. |
+| **55–60 min** | Avaliação e Fechamento | Feedback formativo individual e orientação para estudo diário. |
 
-1. **Perfil A — Iniciante com Dificuldades Motoras/Rítmicas:**
-- *Abordagem:* Redução de carga cognitiva e física através do uso de acordes simplificados/ancorados, isolamento de treino das mãos direita e esquerda, andamento reduzido (40–50 BPM) e apoios visuais/táteis (marcações de fita nos trastes e diagramas ampliados).
-2. **Perfil B — Iniciante Avançado / Experiência Prévia:**
-- *Abordagem:* Extensão funcional focada na liderança e acompanhamento real. Inclui introdução/finalização de hinos, técnica de baixo alternado, transposição simples de tonalidade e utilização de capotaste.
+### 3. Critérios de Avaliação (Rubrica Analítica)
+O desempenho é avaliado de forma contínua e formativa através de rubrica com critérios como: **Postura**, **Formação e Transição de Acordes**, **Manutenção do Pulso**, **Acompanhamento do Hino**, **Leitura de Cifras** e **Postura Congregacional**.
 
-## 4. Internacionalização (i18n) e Adaptação
+---
 
-*[Assistido por IA]*
+## 🧩 Materiais Complementares
 
-- **Idioma Principal:** Português (Brasil).
-- **Nível CEFR Equivalente para Adaptação de Idiomas:** B1 – B2 (Intermediário).
-- **Aplicação em Ambientes Multilíngues:** O plano foi projetado utilizando a nomenclatura internacional de cifras (A, B, C, D, E, F, G) e termos técnicos universais da música.
-- **Como Usar em Outros Idiomas:** Os prompts utilizados para gerar este repositório podem ser traduzidos para o inglês ou espanhol mantendo os mesmos parâmetros de saída pedagógica, permitindo a replicação da metodologia em comunidades eclesiásticas internacionais.
+1. **Textos Didáticos de Apoio:**
+   * *Texto 1:* "O Papel do Violão no Louvor Congregacional" (foco ministerial e ritmo seguro).
+   * *Texto 2:* "Entendendo Cifras e Diagramas de Acordes" (guia prático para iniciantes).
+2. **Lista de Exercícios:** 5 questões (múltipla escolha e abertas) sobre leitura de cifras, pulsação e posições de acordes, com gabarito comentado.
+3. **Atividade Prática em Dupla ("O Pulso Unificado"):** Dinâmica de 20–30 min focada na escuta mútua e sincronização rítmica entre dois violões.
 
-## 5. Links e Recursos do Repositório
+---
 
-Os documentos e entregáveis do projeto estão disponíveis nos seguintes links: 
-- Plano de Aula Completo: [`Plano_de_Aula_IA.docx`](Plano_de_Aula_IA.docx)
-- Apresentação de Slides: [`Apresentacao_Aula_IA.pptx`](Apresentacao_Aula_IA.pptx)
-- Reflexão Crítica e Relatório de IA: [`Reflexao_IA.docx`](Reflexao_IA.docx)
+## ♿ Diferenciação Pedagógica
 
-## 6. Checklist de Envio
+O plano contempla adaptações específicas para garantir inclusão e engajamento:
 
-- [x] Título e descrição do desafio declarados no README.
-- [x] Resumo do plano pedagógico contendo contexto, objetivos, metodologia e avaliação.
-- [x] Mapeamento detalhado das ferramentas de IA (ChatGPT, Gemini, Google Docs, Canva).
-- [x] Estratégia de personalização para os Perfis A e B apresentada.
-- [x] Diretrizes de internacionalização e nível CEFR estabelecidos.
-- [x] Links direcionados para os arquivos PDF, DOCX e PPTX.
-- [x] Tags `[Assistido por IA]` aplicadas nos trechos gerados ou refinados por IA.
-- [x] Reflexão crítica completa ao final do documento.
+* **Perfil A (Suporte ao Aprendizado / Dificuldade de Leitura ou Coordenação):**
+  * Uso de cifras ampliadas e codificadas por cores.
+  * Foco reduzido a 2 ou 3 acordes principais (`G` e `D`).
+  * Ritmo simplificado marcado apenas no tempo forte.
+  * Método de decomposição de tarefas passo a passo.
 
-# 7. Auditoria e Checklist Final
+* **Perfil B (Avançado / Alto Desempenho):**
+  * Introdução de padrão rítmico intermediário (`↓ ↓↑ ↑↓↑`).
+  * Desafio de transposição de tonalidades e introduções/finalizações simples.
+  * Prática com metrônomo em andamentos mais acelerados.
 
-Para saber mais sobre a auditoria e o checklist final, clique em [Auditoria_e_Cheklist_Final.md](Auditoria_e_Cheklist_Final.md).
+---
 
-## 8. Créditos
+## 🌐 Internacionalização (CEFR A2)
 
-- **Elaboração Pedagógica e Curadoria:** Equipe de Educação e Música Congregacional.
-- **Modelos de IA Utilizados:** OpenAI ChatGPT (GPT-4o) & Google Gemini 3 Flash.
-- **Design e Diagramação:** Google Docs & Canva Pro.
+Para suporte a turmas multilíngues, um trecho conceitual sobre o papel do instrumento foi revisado e traduzido para o inglês no nível **CEFR A2 (Elementary)**:
 
-## 9. Informações sobre o Desafio
+> *"In a traditional church, the guitar must help the church sing together. The instrument does not need to show off. Its goal is to support the melody, keep the rhythm, and help people sing with confidence..."*
 
-- Repositório: [IA_em_Sala_de_Aula](https://github.com/devGvieira/IA_em_Sala_de_Aula/)
+* **Guia de Uso Multilíngue:** Apresentação de vocabulário chave prévio (*guitar*, *chords*, *steady beat*, *hymn*) e atividades de leitura guiada em duplas. `[Assistido por IA – Tradução]`
+
+---
+
+## 🤖 Uso Responsável da IA & Transparência
+
+* **Ferramentas Utilizadas:**
+  * **ChatGPT (OpenAI):** Estruturação do plano de aula, geração de exercícios e matrizes de diferenciação.
+  * **Gemini (Google):** Revisão didática, tradução adaptada (CEFR A2) e análise de consistência pedagógica.
+  * **Canva Education:** Diagramação e geração de apresentações visuais.
+* **Supervisão Humana (*Human-in-the-Loop*):** Todas as saídas das IAs foram submetidas a curadoria, validação técnica de terminologia musical e adequação ao contexto congregacional eclesiástico.
+* **Marcação de Transparência:** Todas as seções formuladas com auxílio das ferramentas contêm a sinalização `[Assistido por IA]`.
+
+---
+
+## ⚖️ Auditoria Ética, Privacidade e Direitos Autorais
+
+* **Privacidade e LGPD:** O projeto adota anonimização estrita e minimização de dados, utilizando apenas perfis fictícios/conceituais de alunos sem coleta de dados pessoais sensíveis.
+* **Direitos Autorais:** O repertório sugerido baseia-se prioritariamente em hinos de **domínio público** (Harpa Cristã, Cantor Cristão) e licenças abertas para distribuição de cifras.
+* **Mitigação de Vieses:** Substituição de vieses denominacionais ou de virtuosismo por uma abordagem neutra, comunitária e inclusiva.
+
+---
+
+## 📁 Estrutura de Arquivos do Repositório
+
+```text
+Projeto-Plano-Aula-IA/
+├── docs/
+│   ├── Plano_de_Aula_IA.docx
+│   ├── Apresentacao_Aula_IA.pptx
+│   └── prompts.md
+│   └── Reflexao_IA.docx
+├── materials/
+│   ├── exercicios_gabarito.md
+│   ├── textos_apoio.md
+│   └── atividade_pratica_dupla.md
+├── differentiation/
+│   ├── perfil_a_suporte.md
+│   └── perfil_b_avancado.md
+├── audit/
+│   └── auditoria_etica_privacidade.md
+├── LICENSE
+└── README.md
+```
+
+## ✅ Checklist de Entrega
+
+- [x] Plano completo com todas as seções obrigatórias e marcação `[Assistido por IA]`
+- [x] Materiais complementares (2 textos de apoio, 5 exercícios com gabarito e 1 atividade em dupla)
+- [x] Adaptação para 2 perfis (Perfil A: Suporte / Perfil B: Avançado)
+- [x] Tradução e guia internacional (Inglês CEFR A2) `[Assistido por IA – Tradução]`
+- [x] Apresentação visual em slides (`Apresentacao_Aula_IA.pptx`)
+- [x] Documentação e auditoria ética (`Reflexao_IA.docx/.pdf` e `README.md`)
+- [x] Nomenclatura padronizada de todos os arquivos do repositório
+- [x] Conformidade ética com privacidade de dados (LGPD) e direitos autorais
+
+## 👤 Autor e Créditos
+
+- **Elaboração e Curadoria Pedagógica:** Projeto desenvolvido para o Desafio em IA Aplicada à Educação.
+- **Licença:** Este projeto está licenciado sob a Licença Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
